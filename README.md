@@ -31,7 +31,7 @@ ddev setup
 If you want to simply reset the database:
 
 ```bash
-ddev reset-db
+ddev refresh-db
 ```
 
 ## Using the API
